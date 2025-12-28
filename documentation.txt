@@ -1,1 +1,2 @@
 A Book Management System (BMS) is an enterprise application designed to automate the lifecycle of library assets. It handles everything from cataloging and inventory tracking to member management and financial transactions (fines).
+Technical Stack & Functionality
